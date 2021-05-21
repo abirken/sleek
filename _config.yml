@@ -10,7 +10,7 @@ url: "https://abirken.github.io/" # the base hostname & protocol for your site, 
 
 # SEO PLUGIN
 social:
-  name: The BorgLab
+  name: Your Name
   links:
     - https://twitter.com/BenBalter
     - https://www.linkedin.com/in/BenBalter
