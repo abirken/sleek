@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Me # your site title
+title: The BORG # your site title
 author: abirken # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Research', link: '/research'}
   - {name: 'Contact', link: '/contact'}
 
-tagline: >
+tagline:
   An alien group that appear as recurring antagonists
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
