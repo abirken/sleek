@@ -10,7 +10,7 @@ url: "https://abirken.github.io/" # the base hostname & protocol for your site, 
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: The BorgLab
   links:
     - https://twitter.com/BenBalter
     - https://www.linkedin.com/in/BenBalter
@@ -26,7 +26,7 @@ navigation: # Navigation links
 tagline:
   An alien group that appear as recurring antagonists
 
-hero_img: posts/sleep_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/threeships.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
