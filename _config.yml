@@ -2,9 +2,7 @@
 title: The BORG # your site title
 author: abirken # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My intial attempt at a GitHub Page.
 baseurl: "/sleek" # the subpath of your site, e.g. /blog
 url: "https://abirken.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -24,7 +22,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline:
-  An alien group that appear as recurring antagonists
+  An alien group linked in a hive mind that appear as recurring antagonists
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
