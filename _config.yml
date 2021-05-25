@@ -22,7 +22,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline:
-  An alien group linked in a hive mind that appear as recurring antagonists
+  Data-driven marine resource economics, policy evaluation, and climate change research at 
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
