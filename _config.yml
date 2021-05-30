@@ -3,7 +3,7 @@ title: The BORG # your site title
 author: abirken # You :P
 description: > # Meta description of Homepage
   My intial attempt at a GitHub Page.
-# baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://abirken.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
