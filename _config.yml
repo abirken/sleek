@@ -24,7 +24,7 @@ navigation: # Navigation links
 tagline:
   Data-driven marine resource economics and policy research at the University of Delaware
 
-hero_img: posts/sleek-lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/fishbol.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: abirken@udel.edu # email for form submission
 
