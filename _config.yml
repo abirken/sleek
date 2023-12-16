@@ -5,7 +5,7 @@ description: > # Meta description of Homepage
   My intial attempt at a GitHub Page.
 baseurl: "/" # the subpath of your site, e.g. /blog
 #url: "https://abirken.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-#url: "https://fishbol.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fishbol.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -25,7 +25,7 @@ navigation: # Navigation links
 tagline:
   Data-driven marine resource economics and policy research at the University of Delaware
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/fishbol.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: abirken@udel.edu # email for form submission
 
