@@ -10,9 +10,8 @@ url: "https://abirken.github.io/" # the base hostname & protocol for your site, 
 social:
   name: Your Name
   links:
-    - https://twitter.com/BenBalter
-    - https://www.linkedin.com/in/BenBalter
-    - https://github.com/benbalter
+    - https://www.linkedin.com/in/annabirkenbach
+    - https://github.com/abirken
 
 # THEME SETTINGS
 navigation: # Navigation links
