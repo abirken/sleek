@@ -1,10 +1,10 @@
 # SITE CONFIGURATION
-title: The BORG # your site title
+title: Birkenbach-Oremus Lab: FishBOL @ UD # your site title
 author: abirken # You :P
 description: > # Meta description of Homepage
   My intial attempt at a GitHub Page.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://abirken.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fishbol.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -21,7 +21,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline:
-  Data-driven marine resource economics, policy evaluation, and climate change research at 
+  Data-driven marine resource economics and policy research at the University of Delaware
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
