@@ -4,7 +4,8 @@ author: abirken # You :P
 description: > # Meta description of Homepage
   My intial attempt at a GitHub Page.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://abirken.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://abirken.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://fishbol.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -16,9 +17,9 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
   - {name: 'Research', link: '/research'}
   - {name: 'Students', link: '/students'}
+  - {name: 'Lab News', link: '/labnews'}
   - {name: 'Contact', link: '/contact'}
 
 tagline:
