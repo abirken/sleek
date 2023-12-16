@@ -1,6 +1,9 @@
 ---
-layout: post
+layout: post # needs to be post
+title: Fisheries Have a Data Infrastructure Problem
+featured-img: sleek #optional - if you want you can include hero image
 ---
+
 https://communities.springernature.com/posts/fisheries-have-a-data-infrastructure-problem
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
