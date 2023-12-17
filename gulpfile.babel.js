@@ -28,8 +28,8 @@ const critical = require( "critical" );
 const sw = require( "sw-precache" );
 
 // Image Generation
-const responsive = require( "gulp-responsive" );
-const rename = require( "gulp-rename" );
+import responsive from 'gulp-responsive';
+import rename from 'gulp-rename';
 import imagemin from 'gulp-imagemin'; 
 
 const src = {
