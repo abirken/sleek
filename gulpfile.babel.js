@@ -5,7 +5,7 @@
 import gulp from 'gulp';
 const cp = require( "child_process" );
 const notify = require( "gulp-notify" );
-import size from `gulp-size`;
+import size from "gulp-size";
 
 // Basic workflow plugins
 const browserSync = require( "browser-sync" );
