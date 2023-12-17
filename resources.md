@@ -10,10 +10,10 @@ permalink: /resources/
 [Admissions FAQs](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/admissions-faqs/)  
 
 ## Programs we advise under:
-[Environmental Economics (EE) degrees](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/environmental-economics/)  
-[Environmental Science and Management (ESM) degree](https://www.udel.edu/academics/colleges/ceoe/prospective-students/graduate/environmental-science-and-management/)  
-[Marine Policy (MP) degrees](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/marine-policy-degrees/)
-[Economics graduate degree programs](https://lerner.udel.edu/programs/)
+[Environmental Economics (EE)](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/environmental-economics/)  
+[Environmental Science and Management (ESM)](https://www.udel.edu/academics/colleges/ceoe/prospective-students/graduate/environmental-science-and-management/)  
+[Marine Policy (MP)](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/marine-policy-degrees/)  
+[Economics](https://lerner.udel.edu/programs/)
 
 ## Affiliations:
 [School of Marine Science and Policy](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/)  
