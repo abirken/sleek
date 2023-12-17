@@ -4,7 +4,7 @@ title: Students
 permalink: /students/
 ---
 ## Current students
-* Seleni J. Cruz (EE-PhD)
+* Seleni Cruz (EE-PhD)
 * Benjamin Hurley (MMP)
 
 ## Graduated students
