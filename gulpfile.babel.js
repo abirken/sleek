@@ -28,7 +28,7 @@ const critical = require( "critical" );
 const sw = require( "sw-precache" );
 
 // Image Generation
-import responsive from "gulp-responsive" ;
+const responsive = require("gulp-responsive") ;
 import rename from 'gulp-rename';
 import imagemin from 'gulp-imagemin'; 
 
