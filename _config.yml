@@ -18,7 +18,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Research', link: '/research'}
   - {name: 'Students', link: '/students'}
-  - {name: 'News', link: '/labnews'}
+  #- {name: 'News', link: '/labnews'}
   - {name: 'Resources', link: '/resources'}
   - {name: 'Contact', link: '/contact'}
 
