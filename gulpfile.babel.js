@@ -1,5 +1,6 @@
 /* eslint-env node, process */
 "use strict";
+import fetch from 'node-fetch';
 
 // Gulp and node
 import gulp from "gulp";
