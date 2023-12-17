@@ -43,6 +43,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "gulp"
   },
+  {
+  "type": "module"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/janczizikow/sleek.git"
