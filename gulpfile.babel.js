@@ -1,6 +1,5 @@
 /* eslint-env node, process */
 "use strict";
-import fetch from 'node-fetch'; 
 
 // Gulp and node
 import gulp from "gulp";
@@ -31,7 +30,7 @@ const sw = require( "sw-precache" );
 // Image Generation
 const responsive = require( "gulp-responsive" );
 const rename = require( "gulp-rename" );
-const imagemin = require('gulp-imagemin');
+import imagemin from 'gulp-imagemin'; 
 
 const src = {
   css: "_sass/jekyll-sleek.scss",
