@@ -30,7 +30,7 @@ const sw = require( "sw-precache" );
 // Image Generation
 const responsive = require( "gulp-responsive" );
 const rename = require( "gulp-rename" );
-import imagemin from "gulp-imagemin";
+const imagemin = import('gulp-imagemin');
 
 const src = {
   css: "_sass/jekyll-sleek.scss",
