@@ -1,6 +1,5 @@
 /* eslint-env node, process */
 "use strict";
-const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 
 // Gulp and node
 import gulp from 'gulp';
