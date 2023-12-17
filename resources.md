@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-## Applicant resources
+## Applicant resources:
 [Applying to UD](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/)  
 [Costs](https://www.udel.edu/academics/colleges/grad/prospective-students/cost-of-attendance/)  
 [Funding opportunities](https://www.udel.edu/academics/colleges/grad/current-students/funding/)  
