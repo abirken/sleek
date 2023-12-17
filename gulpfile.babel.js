@@ -4,7 +4,7 @@
 // Gulp and node
 import gulp from 'gulp';
 const cp = require( "child_process" );
-const notify = require( "gulp-notify" );
+import notify from "gulp-notify";
 import size from "gulp-size";
 
 // Basic workflow plugins
@@ -28,7 +28,7 @@ const critical = require( "critical" );
 const sw = require( "sw-precache" );
 
 // Image Generation
-const responsive = require( "gulp-responsive" );
+import responsive from "gulp-responsive" ;
 import rename from 'gulp-rename';
 import imagemin from 'gulp-imagemin'; 
 
