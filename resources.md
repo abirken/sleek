@@ -15,7 +15,7 @@ permalink: /resources/
 [Marine Policy (MP) degrees](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/marine-policy-degrees/)
 [Economics graduate degree programs](https://lerner.udel.edu/programs/)
 
-## Affiliations
+## Affiliations:
 [School of Marine Science and Policy](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/)  
 [Department of Economics](https://lerner.udel.edu/departments/economics/)  
 [Woods Hole Oceanographic Institution - Marine Policy Center](https://www.whoi.edu/what-we-do/understand/departments-centers-labs/mpc/)  
