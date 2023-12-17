@@ -19,7 +19,7 @@ navigation: # Navigation links
   - {name: 'Research', link: '/research'}
   - {name: 'Students', link: '/students'}
   - {name: 'News', link: '/labnews'}
-  - {name: 'Resources', link: '/resouces'}
+  - {name: 'Resources', link: '/resources'}
   - {name: 'Contact', link: '/contact'}
 
 tagline:
