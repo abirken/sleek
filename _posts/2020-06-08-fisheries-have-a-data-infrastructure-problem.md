@@ -2,6 +2,7 @@
 layout: post # needs to be post
 title: Fisheries Have a Data Infrastructure Problem
 featured-img: sleek #optional - if you want you can include hero image
+categories: Media
 ---
 
 [post from Springer Nature](https://bit.ly/2BKch8n)
