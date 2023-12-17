@@ -2,7 +2,7 @@
 "use strict";
 
 // Gulp and node
-const gulp = require( "gulp" );
+import gulp from "gulp";
 const cp = require( "child_process" );
 const notify = require( "gulp-notify" );
 const size = require( "gulp-size" );
