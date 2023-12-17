@@ -8,4 +8,5 @@ permalink: /students/
 * Benjamin Hurley (MMP)
 
 ## Graduated students
-* Jessica Dobson (MMP)
+* Jessica Dobson (MMP, 2022)
+* Matthew Kahley (MMP, 2021)
