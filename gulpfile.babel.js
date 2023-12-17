@@ -2,10 +2,10 @@
 "use strict";
 
 // Gulp and node
-import gulp from "gulp";
+import gulp from `gulp`;
 const cp = require( "child_process" );
 const notify = require( "gulp-notify" );
-const size = require( "gulp-size" );
+import size from `gulp-size`;
 
 // Basic workflow plugins
 const browserSync = require( "browser-sync" );
