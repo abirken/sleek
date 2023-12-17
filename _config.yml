@@ -22,7 +22,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline:
-  Data-driven marine resource economics and policy research at   the University of Delaware's [School of Marine Science and Policy](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/)
+  Data-driven marine resource economics and policy research at   the University of Delaware's School of Marine Science and Policy
 
 hero_img: posts/fishbol.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
